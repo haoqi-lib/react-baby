@@ -1,4 +1,15 @@
 # react-baby
 
-瞄准 React 的基本概念的理解。因为 haoqicat.com
+瞄准 React 的基本概念的理解。React 官方文档上的基础知识部分的翻译和重组。
+
+
+
+- 因为 haoqicat.com
 上的案例是纯动手的，所以必须要有一本概念书配合，不然整个教学过程是完不成的。
+
+
+ReactDOM 是干嘛的。
+index.html 跟 App.js 如何配合。
+组件的基本结构。
+JSX 的基础知识。
+所有这些概念性的内容都不适合在视频中讲解。
