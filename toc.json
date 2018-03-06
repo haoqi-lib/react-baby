@@ -10,5 +10,9 @@
   {
     "episodeId": "003-el",
     "title": "渲染元素"
+  },
+  {
+    "episodeId": "004-comp",
+    "title": "组件和属性"
   }
 ]
