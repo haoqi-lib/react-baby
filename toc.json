@@ -6,5 +6,9 @@
   {
     "episodeId": "002-jsx",
     "title": "jsx 语法"
+  },
+  {
+    "episodeId": "003-el",
+    "title": "渲染元素"
   }
 ]
