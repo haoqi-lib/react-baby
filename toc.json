@@ -14,5 +14,9 @@
   {
     "episodeId": "004-comp",
     "title": "组件和属性"
+  },
+  {
+    "episodeId": "005-state",
+    "title": "state 和生命周期函数"
   }
 ]
