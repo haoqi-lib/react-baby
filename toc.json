@@ -18,5 +18,25 @@
   {
     "episodeId": "005-state",
     "title": "state 和生命周期函数"
+  },
+  {
+    "episodeId": "006-event",
+    "title": "处理事件"
+  },
+  {
+    "episodeId": "007-condition",
+    "title": "条件渲染"
+  },
+  {
+    "episodeId": "008-list",
+    "title": "列表"
+  },
+  {
+    "episodeId": "009-form",
+    "title": "表单"
+  },
+  {
+    "episodeId": "010-lift",
+    "title": "state 提升"
   }
 ]
