@@ -16,8 +16,6 @@ function GuestGreeting(props) {
 }
 ```
 
-We’ll create a component that displays either of these components depending on whether a user is logged in:
-
 下面来创建一个 `Greeting` 组件，来根据用户是否已经登录，来显示不同的打招呼信息：
 
 ```js

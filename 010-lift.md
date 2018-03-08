@@ -306,4 +306,4 @@ Now, no matter which input you edit, and in the Calculator get updated. One of t
 
 ## 参考
 
-* https://reactjs.org/docs/forms.html
+* https://reactjs.org/docs/lifting-state-up.html
