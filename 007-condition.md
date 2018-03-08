@@ -97,8 +97,6 @@ ReactDOM.render(<LoginControl />, document.getElementById('root'))
 
 ## 通过 && 元素符实现行内 if
 
-You may embed any expressions in JSX by wrapping them in curly braces. This includes the JavaScript logical && operator. It can be handy for conditionally including an element:
-
 JSX 中可以嵌入任意的表达式，用大括号括起来即可。所以当然也可以使用 `&&` 了：
 
 ```js
