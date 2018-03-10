@@ -38,5 +38,9 @@
   {
     "episodeId": "010-lift",
     "title": "state 提升"
+  },
+  {
+    "episodeId": "011-composition",
+    "title": "组合和继承"
   }
 ]

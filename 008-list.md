@@ -33,8 +33,6 @@ ReactDOM.render(<ul>{listItems}</ul>, document.getElementById('root'))
 
 ## 基本 list 组件
 
-We can refactor the previous example into a component that accepts an array of numbers and outputs an unordered list of elements.
-
 可以把之前的例子重构到一个组件中，组件接受一个数组作为属性，输出一个 list 。
 
 ```js
