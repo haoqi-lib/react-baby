@@ -42,5 +42,9 @@
   {
     "episodeId": "011-composition",
     "title": "组合和继承"
+  },
+  {
+    "episodeId": "012-think",
+    "title": "React 的思维方式"
   }
 ]

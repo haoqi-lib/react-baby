@@ -121,3 +121,7 @@ class SignUpDialog extends React.Component {
 属性和组合让我们非常灵活也非常安全的定制组件的行为和 UI 。不要忘记，组件可以接收的属性类型是没有啥限制的，可以是各种原始值，React 元素或者函数。
 
 如果想要复用的是非 UI 的内容，建议抽出成 JS 模块，然后组件就可以导入模块，使用里面的对象，函数或者类，所以说也用不着使用继承的方式来扩展自身功能。
+
+## 参考
+
+* https://reactjs.org/docs/composition-vs-inheritance.html
