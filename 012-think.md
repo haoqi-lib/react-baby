@@ -4,7 +4,7 @@ React 真的是做大型 Web 应用的利器。React 的一个特别大的好处
 
 假设现在咱们已经有了 JSON API 和一个如下的原型图：
 
-![](002-mock.png)
+![](https://raw.githubusercontent.com/haoqi-lib/react-baby/master/img/002-mock.png)
 
 JSON API 返回的数据是：
 
@@ -27,7 +27,7 @@ JSON API 返回的数据是：
 
 事件上，如果数据模型本身建立的很好，你会发现拆分组件就变得非常的简单，因为组件和数据之间会形成非常简单的一一对应关系。
 
-![](003-comp.png)
+![](https://raw.githubusercontent.com/haoqi-lib/react-baby/master/img/003-comp.png)
 
 咱们的小应用可以拆分成五个组件：
 
